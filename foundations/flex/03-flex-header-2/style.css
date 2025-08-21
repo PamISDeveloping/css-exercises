@@ -51,3 +51,6 @@ ul {
   display: flex;
   gap: 15px;
 }
+
+.right {display: flex;
+gap: 15px;}
